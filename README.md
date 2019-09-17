@@ -1,6 +1,6 @@
 # Тестовое задание на стажировку в ADCI solutions
 
-Сверстать страницу по макету. Макет находится в папке designs.
+Сверстать страницу по макету. Макет находится в папке designs (можно использовать Photoshop или Avocode).
 
 ## Требования к верстке
 #### Оглавление
@@ -8,9 +8,8 @@
 2. [Кроссбраузерность, кодировка и DOCTYPE](#crossbrowser)
 3. [Валидность](#valid)
 4. [Корректная работа при вбивании реального текста, надёжность вёрстки](#reliability)
-5. [Отсутствие глупостей в html и css, единообразие, аккуратность
-Правильная структура заголовков (H1,H2,… и т.д. и TITLE)](#no-folly)
-6. [Правильная структура заголовков](#seo)
+5. [Отсутствие глупостей в html и css, единообразие, аккуратность](#no-folly)
+6. [Правильная структура заголовков (H1,H2,… и т.д. и TITLE)](#seo)
 
 ### <a name="pixel-perfect">1. Соответствие макету</a>
 
@@ -125,4 +124,4 @@
 Работу лучше присылать ссылкой на [GitHub](https://github.com/)([GitLab](https://gitlab.com/)/[Bitbucket](https://bitbucket.org/)).
 
 
-## Если есть вопросы по тестовому можно писать в [*issues*](https://github.com/ADCI/frontend-junior-initial-task/issues) или напрямую [Дмитрию](mailto:dmitry.chuchin@gmail.com)
+## Если есть вопросы по тестовому можно писать в [*issues*](https://github.com/ADCI/frontend-junior-initial-task/issues) или напрямую [тимлиду](mailto:frontendadcillc@gmail.com)
